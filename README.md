@@ -24,12 +24,12 @@ O formulário padrão vem com os campos:
 Você pode alterar ou adicionar campos diretamente na tag `<template>` no HTML.
 
 ## 🗃️ Estrutura dos Arquivos
-
+```
 📁 crud-bootstrap-localstorage
 ├── index.html # HTML com Bootstrap, estrutura da interface e template do formulário
 ├── crud.js # Código JavaScript genérico para o CRUD
 └── README.md # Este arquivo
-
+```
 
 ## ▶️ Como Usar
 
